@@ -1,0 +1,9 @@
+#parent {
+    color: red;
+    background-color: greenyellow;
+}
+
+
+#child h2{ 
+    color: blue;
+}
